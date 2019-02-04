@@ -1,5 +1,7 @@
-I'm sorry, guys. I accidentally uploaded my entire folder. The files for the homework are:
-
+The files for the homework are:
+<br>
 -easy_mode.vbs
+<br>
 -moderate_mode.vbs
+<br>
 -The three screenshots.
